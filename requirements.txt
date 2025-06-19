@@ -1,0 +1,7 @@
+numpy
+onnxruntime_gpu
+tqdm
+transformers
+pandas
+pytest
+pytest-cov
